@@ -11,54 +11,52 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* BA in Media and Visual Arts (double major), Koç University, 2025
+* BSc in Computer Engineering, Koç University, 2025
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2024 - Present: Research Assistant
+  * Koç University KARMA Mixed Reality Lab
+  * Duties includes: Mobile App Developer, HCI Researcher
+  * Supervisor: Dr. Asım Evren Yantaç
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Work Experience
+======
+* July 2024 - May 2025: Front-end Development Intern
+  * Hitit Computer Services
+  * Contributed to two B2B software projects at Hitit, a global passenger service system provider, by building reusable UI components, designing data flows, and fixing bugs.
+  * Collaborated with developers, analysts, and designers, gaining practical experience in
+interdisciplinary communication, technical documentation, and human-computer interaction design.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Project Management
+* Interdisciplinary Communication
+* Problem Solving
+* Qualitative Analysis
+* Critical thinking
+* Technical
+  * Software Development
+  * Database Management
+  * Data Analysis & Visualization
+  * Web Scraping
+  * Version Control
+  * Algorithms & Data Structures
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
