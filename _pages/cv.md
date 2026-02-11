@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* MSc in Media and Communications (Research), London School of Economics and Political Science, *Starting in September 2026*
+* MSc in Media and Communications (Research), London School of Economics, *Starting in September 2026*
 * BA in Media and Visual Arts (double major), Koç University, 2025
 * BSc in Computer Engineering, Koç University, 2025
 
