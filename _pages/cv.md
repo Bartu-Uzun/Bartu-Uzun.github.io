@@ -9,20 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+* MSc in Media and Communications (Research), London School of Economics and Political Science, *Starting in September 2026*
 * BA in Media and Visual Arts (double major), Koç University, 2025
 * BSc in Computer Engineering, Koç University, 2025
 
-Research Experience
-======
+## Research Experience
 * May 2024 - Present: Research Assistant
   * Koç University KARMA Mixed Reality Lab
   * Duties includes: Mobile App Developer, HCI Researcher
   * Supervisor: Dr. Asım Evren Yantaç
 
-Work Experience
-======
+## Work Experience
 * July 2024 - May 2025: Front-end Development Intern
   * Hitit Computer Services
   * Contributed to two B2B software projects at Hitit, a global passenger service system provider, by building reusable UI components, designing data flows, and fixing bugs.
@@ -30,8 +28,7 @@ Work Experience
 interdisciplinary communication, technical documentation, and human-computer interaction design.
 
   
-Skills
-======
+## Skills
 * Project Management
 * Interdisciplinary Communication
 * Problem Solving
@@ -44,19 +41,3 @@ Skills
   * Web Scraping
   * Version Control
   * Algorithms & Data Structures
-
-Publications
-======
-
-  
-Talks
-======
-
-  
-Teaching
-======
-
-  
-Service and leadership
-======
-
